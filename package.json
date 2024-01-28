@@ -1,5 +1,5 @@
 {
-  "name": "sveltekit-bun-template",
+  "name": "alopezmtz-url-short",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -41,8 +41,11 @@
   },
   "type": "module",
   "dependencies": {
+    "@prisma/client": "5.8.1",
+    "bits-ui": "^0.16.0",
     "clsx": "^2.1.0",
     "lucide-svelte": "^0.316.0",
+    "mode-watcher": "^0.1.2",
     "tailwind-merge": "^2.2.1",
     "tailwind-variants": "^0.1.20"
   }
